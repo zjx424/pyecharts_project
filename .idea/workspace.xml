@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e095f050-4102-47b0-905d-571629a0e189" name="Default Changelist" comment="" />
+    <list default="true" id="e095f050-4102-47b0-905d-571629a0e189" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyternotebook_pyecharts/.ipynb_checkpoints/toolbox展示-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyternotebook_pyecharts/.ipynb_checkpoints/主题测试-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyternotebook_pyecharts/.ipynb_checkpoints/修改长度高度-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyternotebook_pyecharts/.ipynb_checkpoints/堆叠条形图-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyternotebook_pyecharts/.ipynb_checkpoints/日历图-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyternotebook_pyecharts/.ipynb_checkpoints/条形图最大最小值-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyternotebook_pyecharts/.ipynb_checkpoints/条形图水平拖动-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyternotebook_pyecharts/.ipynb_checkpoints/系列配置项-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyternotebook_pyecharts/toolbox展示.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyternotebook_pyecharts/主题测试.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyternotebook_pyecharts/修改长度高度.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyternotebook_pyecharts/堆叠条形图.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyternotebook_pyecharts/日历图.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyternotebook_pyecharts/条形图最大最小值.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyternotebook_pyecharts/条形图水平拖动.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyternotebook_pyecharts/系列配置项.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/render.html" beforeDir="false" afterPath="$PROJECT_DIR$/render.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,41 +30,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" selection-end-line="15" selection-end-column="21" />
-              <folding>
-                <element signature="e#0#32#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="114">
+              <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/pyecharts-1.0.0-py3.7.egg/pyecharts/options/series_options.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/render.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="37" column="14" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/pyecharts-1.0.0-py3.7.egg/pyecharts/charts/basic_charts/bar.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/pyecharts-1.0.0-py3.7.egg/pyecharts/charts/chart.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="29" column="36" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
+            <state relative-caret-position="76">
+              <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -65,6 +64,9 @@
       <find>ToolboxOpts</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -72,12 +74,13 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="962" />
     <option name="y" value="80" />
     <option name="width" value="941" />
     <option name="height" value="914" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -98,6 +101,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -155,15 +159,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="962" y="80" width="941" height="914" extended-state="0" />
+    <frame x="0" y="23" width="1920" height="984" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.055434782" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14955239" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3298122" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.24087591" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23991032" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39906102" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -183,47 +187,22 @@
     <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/pyecharts/charts/__init__.py" />
     <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/pyecharts/charts/bar.py" />
     <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/pyecharts/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/render.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/pyecharts-1.0.0-py3.7.egg/pyecharts/options/global_options.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/pyecharts-1.0.0-py3.7.egg/pyecharts/options/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/pyecharts-1.0.0-py3.7.egg/pyecharts/charts/basic_charts/bar.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/pyecharts-1.0.0-py3.7.egg/pyecharts/charts/chart.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="29" column="36" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/pyecharts-1.0.0-py3.7.egg/pyecharts/options/series_options.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="37" column="14" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/pyecharts-1.0.0-py3.7.egg/pyecharts/options/global_options.py" />
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/pyecharts-1.0.0-py3.7.egg/pyecharts/options/__init__.py" />
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/pyecharts-1.0.0-py3.7.egg/pyecharts/charts/basic_charts/bar.py" />
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/pyecharts-1.0.0-py3.7.egg/pyecharts/charts/chart.py" />
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/pyecharts-1.0.0-py3.7.egg/pyecharts/options/series_options.py" />
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" selection-end-line="15" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="114">
+          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/render.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
         </state>
       </provider>
     </entry>
